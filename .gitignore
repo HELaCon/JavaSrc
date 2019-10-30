@@ -76,6 +76,6 @@ nb-configuration.xml
 .DS_Store
 
 ##############################
-#IntelliJ Platform
+## IntelliJ Platform
 ##############################
 .idea
